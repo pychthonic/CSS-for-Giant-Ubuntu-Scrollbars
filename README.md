@@ -1,6 +1,6 @@
 # CSS-for-Giant-Ubuntu-Scrollbars
 
-I hacked together this CSS a while ago before I'd worked with CSS buildling web pages, so it's sloppy but it works on Firefox, Libreoffice, Terminal, Document Viewer for pdfs, and File Manager.
+I hacked together this CSS a while ago before I'd worked with CSS building web pages, so it's sloppy but it works on Firefox, Libreoffice, Terminal, Document Viewer for pdfs, and File Manager.
 
 Now that my CSS skills have gotten better, I'm going to copy the CSS file to a couple virtual machines and see if I can get it to work on Debian 9, Ubuntu 19, and Kali.
 
